@@ -1,7 +1,7 @@
 # Monaco HTML
 
 HTML language plugin for the Monaco Editor. It provides the following features when editing HTML files:
-* Code completion
+* Code completion(javascript css html)
 * Formatting
 * Document Highlights
 * Link detection
